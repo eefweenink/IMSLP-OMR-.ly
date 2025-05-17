@@ -3,8 +3,8 @@ Routines, using OMR (Optical Music Reading)  to turn pdfs from IMSLP Archive int
 - [Choose a pdf, image with readable music. If needed improve the quality of the file.](pdfquality.md)
 - Choose an OMR app. (for me: [Audiveris](https://github.com/Audiveris/audiveris) or [SheetMusicscanner](https://sheetmusicscanner.com/) (IOS))
 - Use Audiveris to create MXL file(s).
-- Import MXL into Frescobaldi, use optimal CLI settings
-- In [Frescobaldi](https://github.com/frescobaldi/frescobaldi) improve the quality untill satisfied.
+- Import MXL into [Frescobaldi](https://github.com/frescobaldi/frescobaldi), use optimal CLI settings
+- In Frescobaldi improve the quality untill satisfied.
 - Finished
 
 # Setup of apps
