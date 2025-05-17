@@ -14,3 +14,7 @@ Routines, using OMR (Optical Music Reading)  to turn pdfs from IMSLP Archive int
 - xml2ly.sh to set xml2ly import to correct settings. 
 - Arranger.ly from Gilles Thibault https://github.com/gilles-th/arranger.ly
 - [Several snippets in Frescobaldi + Lilypond](Snippets.md)
+
+ # Tips & Tricks
+- Implicit triplets
+- Change beams on triplets in 2/4 time
