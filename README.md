@@ -5,4 +5,4 @@ Routines, using OMR (Optical Music Reading)  to turn pdfs from IMSLP Archive int
 - Use Audiveris to create MXL file(s).
 - Import MXL into Frescobaldi, use optimal CLI settings
 - In Frescobaldi improve the quality untill satisfied.
-Finished
+- Finished
