@@ -2,6 +2,10 @@
 \override Score.BarNumber.break-visibility = ##(#t #t #t)**
 
 ## Implicit triplets
+In Audiveris set this in Book preferences
+In Lilypond:  
+\omit TupletNumber  
+\override Score.BarNumber.break-visibility = ##(#t #t #t)  
 
 ## Change beams on triplets in 2/4 time
 \time 2/4 % \time must be set before. new \time ends beatstructure  
