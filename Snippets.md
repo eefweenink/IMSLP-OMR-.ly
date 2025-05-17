@@ -1,10 +1,10 @@
-# Show all bar-numbers (for quick referencing between sheets of Audiveris and lilypond)
+## Show all bar-numbers (for quick referencing between sheets of Audiveris and lilypond)
 - **\override Score.BarNumber.break-visibility = ##(#t #t #t)**
 
-# Implicit triplets
+## Implicit triplets
 
 
-# Change beams on triplets in 2/4 time
+## Change beams on triplets in 2/4 time
 - **\time 2/4**
 - **\set Timing.beamExceptions = #'()**
 - **\set Timing.beatBase = #1/8**
