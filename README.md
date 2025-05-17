@@ -7,7 +7,7 @@ Routines, using OMR (Optical Music Reading)  to turn pdfs from IMSLP Archive int
 - In Frescobaldi improve the quality untill satisfied.
 - Finished
 
-#Setup of apps
+# Setup of apps
 - Folderstructure
 - Audiveris 5.6.1 (special update because of MacOs error)
 - Frescobaldi latest version
