@@ -15,4 +15,4 @@ Routines, using OMR (Optical Music Reading)  to turn pdfs from IMSLP Archive int
 - Arranger.ly from Gilles Thibault https://github.com/gilles-th/arranger.ly
 - [Several snippets in Frescobaldi + Lilypond](Snippets.md)
 
- [# Tips & Tricks](Snippets.med)
+ [# Tips & Tricks](Snippets.md)
