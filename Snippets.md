@@ -2,7 +2,7 @@
 \override Score.BarNumber.break-visibility = ##(#t #t #t)**
 
 ## Implicit triplets
-In Audiveris set this in Book preferences
+In Audiveris set this in Book preferences  
 In Lilypond:  
 \omit TupletNumber  
 \override Score.BarNumber.break-visibility = ##(#t #t #t)  
